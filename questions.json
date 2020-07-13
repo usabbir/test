@@ -1,0 +1,26 @@
+[
+  {
+    "question": "A_____is a sloping line of high ground.",
+    "choice1": "Depression",
+    "choice2": "Draw",
+    "choice3": "Ridge",
+    "choice4": "Valley",
+    "answer": 3
+  },
+  {
+    "question": "______ is that part of the ground which on account of undulations, hill or depressions is not visible to the observer.",
+    "choice1": "Undulating Ground",
+    "choice2": "Underpass.",
+    "choice3": "Dead Ground.",
+    "choice4": "Broken Ground",
+    "answer": 3
+  },
+  {
+    "question": "What are the main considerations while selecting route for night march?",
+    "choice1": "Avoidance of possible enemy locations.",
+    "choice2": "Avoidance of non-negotiable obstacles",
+    "choice3": "Avoidance of locations in enemy terrain.",
+    "choice4": "All of the above.",
+    "answer": 4
+  }
+]
